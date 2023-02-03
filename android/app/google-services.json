@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950934208234",
+    "project_id": "flash-chat-app-78a7f",
+    "storage_bucket": "flash-chat-app-78a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950934208234:android:8b9852a4d136846f1b6193",
+        "android_client_info": {
+          "package_name": "com.tikam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950934208234-f7vqt0e5ml6nhfqlnetjo3cjvpkou2q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYaTsPurcfINnXQfcJkjdEZqwhbljy7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950934208234-f7vqt0e5ml6nhfqlnetjo3cjvpkou2q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
